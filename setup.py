@@ -8,10 +8,10 @@ warnings.filterwarnings('ignore')
 
 # basic info:
 PKG_NAME= "mdb_connect_pkg"
-__version__ = "1.1.1"
-AUTHOR_USER_NAME = "yuvaneshkm"
-REPO_NAME = "mongodb-connector-pkg"
-AUTHOR_EMAIL = "yuvaneshkm27@gmail.com"
+__version__ = "0.0.2"
+AUTHOR_USER_NAME = "anoopsethi"
+REPO_NAME = "database_automation"
+AUTHOR_EMAIL = "anoopsethi1413@gmail.com"
 
 # long description:
 def read_file(filename):
